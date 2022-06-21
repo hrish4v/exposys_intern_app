@@ -1,6 +1,6 @@
-# try_app
+# exposys_intern
 
-A new Flutter project.
+This app is used for the application for internships in Exposys Data Labs. The app uses firebase auth for the authentication of users and firebase firestore for storing of data of the applied internships. Also there is a payment gateway incorporated in this app which makes is a complete platform for the application for internships in Exposys Data Labs.
 
 ## Getting Started
 
